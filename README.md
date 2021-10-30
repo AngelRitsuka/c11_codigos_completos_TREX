@@ -1,2 +1,2 @@
-# c11_codigos_completos_TREX
-Trex bugs corrigidos
+# C_11_Student-Activity-2_Solution
+solution for student activity
